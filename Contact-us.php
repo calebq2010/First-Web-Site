@@ -10,15 +10,17 @@
 
 
 <div class="container">
+
 	
 <?php include "nav.php"; ?>
 	
 <h1>
 	Contact Page
 </h1>
-	
-</div>
 
+<?php include "map.php"; ?>
+
+	
 
 
 </body>
